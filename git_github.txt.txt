@@ -19,3 +19,4 @@ Working Space de yaptığımız bir güncellemeyi geri almak için ---> git rest
 Eğer Stage den geri almak istersek --> git restore --staged . <-- komutuyla working space'e geri alabiliriz
 Ama her ikisindende yazdıklarımız kaldırmak istersek --> git reset --hard <-- komutunu kullanırız.
 
+----
